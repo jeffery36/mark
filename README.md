@@ -1,1 +1,1 @@
-# mark the data for thesis
+# mark the data for hate speech research
